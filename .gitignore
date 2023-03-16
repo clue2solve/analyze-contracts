@@ -1,0 +1,10 @@
+# Ignore build artifacts
+parser
+*.o
+*.a
+
+# Ignore system and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
